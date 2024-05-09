@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EJercio_Deporte/1.0.0": {
+        "runtime": {
+          "EJercio_Deporte.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EJercio_Deporte/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

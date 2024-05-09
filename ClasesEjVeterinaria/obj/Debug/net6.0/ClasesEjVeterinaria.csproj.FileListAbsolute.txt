@@ -1,0 +1,11 @@
+C:\Users\mateo\source\repos\Repaso\ClasesEjVeterinaria\bin\Debug\net6.0\ClasesEjVeterinaria.deps.json
+C:\Users\mateo\source\repos\Repaso\ClasesEjVeterinaria\bin\Debug\net6.0\ClasesEjVeterinaria.dll
+C:\Users\mateo\source\repos\Repaso\ClasesEjVeterinaria\bin\Debug\net6.0\ClasesEjVeterinaria.pdb
+C:\Users\mateo\source\repos\Repaso\ClasesEjVeterinaria\obj\Debug\net6.0\ClasesEjVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\source\repos\Repaso\ClasesEjVeterinaria\obj\Debug\net6.0\ClasesEjVeterinaria.AssemblyInfoInputs.cache
+C:\Users\mateo\source\repos\Repaso\ClasesEjVeterinaria\obj\Debug\net6.0\ClasesEjVeterinaria.AssemblyInfo.cs
+C:\Users\mateo\source\repos\Repaso\ClasesEjVeterinaria\obj\Debug\net6.0\ClasesEjVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\mateo\source\repos\Repaso\ClasesEjVeterinaria\obj\Debug\net6.0\ClasesEjVeterinaria.dll
+C:\Users\mateo\source\repos\Repaso\ClasesEjVeterinaria\obj\Debug\net6.0\refint\ClasesEjVeterinaria.dll
+C:\Users\mateo\source\repos\Repaso\ClasesEjVeterinaria\obj\Debug\net6.0\ClasesEjVeterinaria.pdb
+C:\Users\mateo\source\repos\Repaso\ClasesEjVeterinaria\obj\Debug\net6.0\ref\ClasesEjVeterinaria.dll

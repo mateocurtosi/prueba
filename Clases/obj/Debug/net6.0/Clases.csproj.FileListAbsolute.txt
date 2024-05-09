@@ -1,0 +1,11 @@
+C:\Users\mateo\source\repos\Repaso\Clases\bin\Debug\net6.0\Clases.deps.json
+C:\Users\mateo\source\repos\Repaso\Clases\bin\Debug\net6.0\Clases.dll
+C:\Users\mateo\source\repos\Repaso\Clases\bin\Debug\net6.0\Clases.pdb
+C:\Users\mateo\source\repos\Repaso\Clases\obj\Debug\net6.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\source\repos\Repaso\Clases\obj\Debug\net6.0\Clases.AssemblyInfoInputs.cache
+C:\Users\mateo\source\repos\Repaso\Clases\obj\Debug\net6.0\Clases.AssemblyInfo.cs
+C:\Users\mateo\source\repos\Repaso\Clases\obj\Debug\net6.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\mateo\source\repos\Repaso\Clases\obj\Debug\net6.0\Clases.dll
+C:\Users\mateo\source\repos\Repaso\Clases\obj\Debug\net6.0\refint\Clases.dll
+C:\Users\mateo\source\repos\Repaso\Clases\obj\Debug\net6.0\Clases.pdb
+C:\Users\mateo\source\repos\Repaso\Clases\obj\Debug\net6.0\ref\Clases.dll

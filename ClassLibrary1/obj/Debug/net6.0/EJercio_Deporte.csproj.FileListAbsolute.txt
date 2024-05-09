@@ -1,0 +1,11 @@
+C:\Users\mateo\source\repos\Repaso\ClassLibrary1\bin\Debug\net6.0\EJercio_Deporte.deps.json
+C:\Users\mateo\source\repos\Repaso\ClassLibrary1\bin\Debug\net6.0\EJercio_Deporte.dll
+C:\Users\mateo\source\repos\Repaso\ClassLibrary1\bin\Debug\net6.0\EJercio_Deporte.pdb
+C:\Users\mateo\source\repos\Repaso\ClassLibrary1\obj\Debug\net6.0\EJercio_Deporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\source\repos\Repaso\ClassLibrary1\obj\Debug\net6.0\EJercio_Deporte.AssemblyInfoInputs.cache
+C:\Users\mateo\source\repos\Repaso\ClassLibrary1\obj\Debug\net6.0\EJercio_Deporte.AssemblyInfo.cs
+C:\Users\mateo\source\repos\Repaso\ClassLibrary1\obj\Debug\net6.0\EJercio_Deporte.csproj.CoreCompileInputs.cache
+C:\Users\mateo\source\repos\Repaso\ClassLibrary1\obj\Debug\net6.0\EJercio_Deporte.dll
+C:\Users\mateo\source\repos\Repaso\ClassLibrary1\obj\Debug\net6.0\refint\EJercio_Deporte.dll
+C:\Users\mateo\source\repos\Repaso\ClassLibrary1\obj\Debug\net6.0\EJercio_Deporte.pdb
+C:\Users\mateo\source\repos\Repaso\ClassLibrary1\obj\Debug\net6.0\ref\EJercio_Deporte.dll
